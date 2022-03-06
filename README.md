@@ -1,6 +1,6 @@
 # Final Year Project for Bachelor of Science in Computer Engineering.
-# Title: Emotion Recognition and Generation using Facial Expressions
-# Phases:
+Title: Emotion Recognition and Generation using Facial Expressions
+Phases:
   1. Emotion Recognition
   2. Artificial Emotion Generation using self-made GAN
   3. Artificial Emotion Generation using StyleGAN2
