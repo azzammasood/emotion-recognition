@@ -1,5 +1,4 @@
-# Final Year Project
-Title: Emotion Recognition through Facial Expressions
+# Emotion Recognition through Facial Expressions 
 
 Description:
 
